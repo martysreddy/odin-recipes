@@ -1,2 +1,2 @@
 # odin-recipes
-HTML Practice.
+Simple HTML Assignment listing recipes.
